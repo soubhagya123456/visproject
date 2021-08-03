@@ -1,0 +1,11 @@
+.carousel-inner img{
+    height: 80vh;
+    width: 100%;
+}
+.para{
+    font-size: 12px;
+    font-weight: bold;
+    text-shadow: black;
+    line-height: 0.1rem;
+    word-spacing: normal;
+}

@@ -1,0 +1,44 @@
+
+.header{
+    background-color:#6900d1 ;
+    background-size:100% 100%;
+}
+.navbar{
+    padding-top:10px;
+}
+ul li a{
+    padding-left: 40px;
+    color:white;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.pop a{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    
+}
+.fa-bars{
+    color:white;
+    font-size: 40px!important;
+}
+.nav-link:hover{
+    border-top: 1px solid white;
+}
+
+
+
+
+
+.second-head{
+    margin-top:20px;
+    color: white;
+}
+.second-head h1{
+    margin:80px 0px 50px;
+}
+
+
+
+
+	
